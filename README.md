@@ -1,9 +1,9 @@
 # EEPROM
 EEPROM stands for ELECTRICALLY ERASABLE PROGRAMMABLE READ ONLY MEMORY.
 
-It is a type of non-volatile memory used in computers, integrated in microcontrollers for smart cards and remote keyless systems, and other electronic devices to store relatively small amounts of data but allowing insivisual bytes to be erased and reprogrammed.
+It is a type of non-volatile memory used in computers, integrated in microcontrollers for smart cards and remote keyless systems, and other electronic devices to store relatively small amounts of data but allowing indivisual bytes to be erased and reprogrammed.
 
-In the Arduino, EEPROM is the only available memory that can store actual bytes programmed by the user, unlike flash memory that cannot be pregrammed by the user.
+In the Arduino, EEPROM is the only available memory that can store actual bytes programmed by the user, unlike flash memory that cannot be programmed by the user.
 
 It is mainly used for callibration of motion sensors. A series of integers can be programmed and be saved as the EEPROM and can be extracted at the time of callibration.
 
